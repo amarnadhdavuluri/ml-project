@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+matplotlib>=3.5
+catboost
+xgboost
 -e .
